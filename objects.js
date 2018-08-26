@@ -1,7 +1,7 @@
 var playslist = new Object({name: "sampleSong"})
 
 function updatePlaylist(playlist, name, song){
-  Object.assing({}, playlist, )
+  playlist.name = song
 }
 
 function removeFromPlaylist(playlist, name, song){
