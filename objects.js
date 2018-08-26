@@ -1,4 +1,3 @@
-var playlist = {
-  artistName: ""
-};
+Object.assing({}, playlist, {names: ""})
+
 
